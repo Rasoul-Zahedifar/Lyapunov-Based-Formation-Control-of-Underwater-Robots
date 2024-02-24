@@ -125,7 +125,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ali Keymasi Khalaji - keymasi@khu.ac.ir,
+Ali Keymasi Khalaji - keymasi@khu.ac.ir
 
 Rasoul Zahedifar - rasoul.zahedifar75@gmail.com
 
