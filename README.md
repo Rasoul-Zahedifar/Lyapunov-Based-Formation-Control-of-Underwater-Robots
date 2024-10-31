@@ -125,9 +125,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ali Keymasi Khalaji - keymasi@khu.ac.ir
-
 Rasoul Zahedifar - rasoul.zahedifar75@gmail.com
+
+Ali Keymasi Khalaji - keymasi@khu.ac.ir
 
 GitHub Link: [https://github.com/Rasoul-Zahedifar/Lyapunov-Based-Formation-Control-of-Underwater-Robots](https://github.com/Rasoul-Zahedifar/Lyapunov-Based-Formation-Control-of-Underwater-Robots/tree/main)
 
